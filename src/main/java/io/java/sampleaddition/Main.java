@@ -48,6 +48,7 @@ public class Main {
 
            default:
                System.out.println("Invalid operator!");
+               System.out.println("hurr");
                break;
        }
 
